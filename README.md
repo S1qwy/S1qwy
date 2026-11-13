@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./terminal-header.png" alt="S1qwy terminal banner" width="880">
+  <img src="./terminal-header.gif" alt="S1qwy terminal banner" width="880">
 </p>
 
 ## `$ whoami`
